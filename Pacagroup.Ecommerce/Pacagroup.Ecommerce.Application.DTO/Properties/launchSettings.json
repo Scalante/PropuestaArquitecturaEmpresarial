@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Pacagroup.Ecommerce.Application.DTO": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:57190;http://localhost:57191"
+    }
+  }
+}
